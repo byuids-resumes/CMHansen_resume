@@ -2,7 +2,7 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
+# Brigham Young is amazing
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -19,7 +19,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 `2025-2027`
 __LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
+- Full academic scholarship with 4.0 GPA YEP, YEP!!!
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
