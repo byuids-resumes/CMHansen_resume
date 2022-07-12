@@ -57,17 +57,10 @@ __Farm Management Corporation__, Greeley, CO
 - Learned and used Farm Management Company's official record-keeping software with no supervision or prior training
 - Trained new employees and made sure questions were answered and proper instruction was given
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
 ## Skills and Accomplishments
 
 - Completed Revit and AutoCAD courses where home designs were prepared
-- Python, R, SQL
+- Python, SQL
 
 ## Service and Work History
 
